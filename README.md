@@ -10,7 +10,7 @@ Each item should have the following fields:
 * details -- optional, holds a large amount of text
 * priority -- not optional, an integer. Default is 1.
 * created_at -- not optional. A date and time.
-* completed_at -- optional. A date a time.
+* completed_at -- optional. A date and time.
 
 In a file called `todo.sql`:
 
